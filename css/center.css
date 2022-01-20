@@ -1,0 +1,58 @@
+.center {
+  /* 위 아래 정렬 */
+  justify-content: center;
+}
+
+#clock {
+  font-weight: bolder;
+  color: white;
+  font-size: 7vmax;
+  padding: 1vmax 0;
+}
+
+.login-div {
+  width: 80%;
+}
+#login-form {
+  margin-top: 3vmin;
+
+  display: flex;
+  align-items: center;
+}
+.center input[type="text"] {
+  border: none;
+  border-radius: 30px;
+
+  padding: 1vmax 1.5vmax;
+  background-color: rgba(255, 255, 255, 0.4);
+
+  color: white;
+
+  margin: 0 0.5em;
+
+  font-size: 0.8em;
+  width: 100%;
+}
+
+.center input[type="submit"] {
+  font-family: FontAwesome;
+
+  color: rgba(255, 255, 255, 0.7);
+  border: none;
+  background: none;
+
+  font-size: 2.5vmax;
+  text-align: center;
+
+  padding: 0 0.3vmax;
+  width: auto;
+  height: auto;
+}
+
+#greeting {
+  margin-top: 3vmin;
+
+  color: white;
+  font-size: 3vmax;
+  font-weight: bolder;
+}

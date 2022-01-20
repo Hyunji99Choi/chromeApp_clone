@@ -1,0 +1,22 @@
+@import "./reset.css";
+@import "./media.css";
+
+@import "./container.css";
+
+@import "./center.css";
+@import "./left-weather.css";
+@import "./right-list.css";
+
+@import "./footer.css";
+
+body {
+  display: flex;
+  align-items: center;
+
+  height: auto;
+  width: auto;
+}
+
+.hidden {
+  display: none;
+}

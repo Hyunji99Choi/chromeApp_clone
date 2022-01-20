@@ -1,0 +1,15 @@
+#weather {
+  margin-top: 3vmin;
+
+  color: white;
+  font-size: 3vmax;
+  font-weight: bolder;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  height: 100%;
+}
