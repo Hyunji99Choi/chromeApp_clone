@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Neonderthaw&display=swap");
+
 @import "./reset.css";
 @import "./media.css";
 
@@ -8,6 +10,10 @@
 @import "./right-list.css";
 
 @import "./footer.css";
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   display: flex;

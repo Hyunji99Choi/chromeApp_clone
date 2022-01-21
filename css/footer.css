@@ -3,6 +3,13 @@ footer {
   bottom: 0;
 
   width: 100%;
+
+  color: white;
+  opacity: 0.8;
+  font-family: "Black And White Picture", sans-serif, "Neonderthaw", cursive;
+}
+footer span:first-child {
+  font-size: 2em;
 }
 
 footer > div {
