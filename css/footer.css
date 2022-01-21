@@ -5,11 +5,11 @@ footer {
   width: 100%;
 
   color: white;
-  opacity: 0.8;
+  opacity: 0.5;
   font-family: "Black And White Picture", sans-serif, "Neonderthaw", cursive;
 }
 footer span:first-child {
-  font-size: 2em;
+  font-size: 2vmax;
 }
 
 footer > div {
